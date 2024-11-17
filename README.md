@@ -1,1 +1,2 @@
 My C++ journey. I wanted to learn C++ as a means of mastering CUDA programming - I felt much resources in CUDA are for C++. Eventually though, I hope to return to CUDA Fortran. This repository contains the exercises I did from Bjarne Stroustrup's marvellous book titled Programming: Principles and Practice using C++ (3rd Edition). 
+    If you are reading, please let me know, for encouragement. This code is for personal use, but if you want more comments to better understand the code, please let me know, also. 
