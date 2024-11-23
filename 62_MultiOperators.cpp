@@ -86,7 +86,7 @@ int printOut ( vector<string> Vec ){ // Printout Vector of strings
 	return 0;
 }
 int main(){
-	cout<<"Enter two operations, for example 1.0 + 2.0 / 3.0 followed by |\n";
+	cout<<"Enter any operations, for example 1.0 + 2.0 / 3.0 + 4.0 * 5.0 followed by |\n";
 	vector<string> Expression; 
 	string element; 
 	while (true){ // Reading in each user-entered terminal 
