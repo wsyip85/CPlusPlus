@@ -9,6 +9,8 @@ Applies for *, /, -, + operators
 
 Limited to One Operator
 
+Does not accept brackets 
+
 */
 #include<iostream>
 #include<vector>
